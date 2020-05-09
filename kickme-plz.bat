@@ -1,0 +1,1 @@
+python amuu-kick.py
